@@ -28,7 +28,7 @@ export default function Home() {
             <main className="flex flex-col">
                 <HeroSection />
                 <div className="flex flex-col items-stretch justify-between lg:px-0 px-6 lg:py-20 py-8 2xl:mx-auto 2xl:container">
-                    <div className="bg-gray-700 p-8 items-center">
+                    <div className="bg-[#F28322] p-8 items-center">
                         <h3 className=" text-center md:w-8/12 lg:w-10/12 xl:8/12 2xl:w-8/12 w-full xl:text-4xl sm:text-3xl text-2xl font-semibold text-black capitalize">
                             GAMEPLAY DESCRIPTION
                         </h3>
@@ -51,7 +51,7 @@ export default function Home() {
                             they can earn.
                         </p>
                     </div>
-                    <div className="bg-gray-700 p-8 items-center">
+                    <div className="bg-[#F28322] p-8 items-center">
                         <h3 className=" text-center md:w-8/12 lg:w-10/12 xl:8/12 2xl:w-8/12 w-full xl:text-4xl sm:text-3xl text-2xl font-semibold text-black capitalize">
                             MISSION
                         </h3>
@@ -70,7 +70,7 @@ export default function Home() {
                             trade NFT’S on our Marketplace.
                         </p>
                     </div>
-                    <div className="bg-gray-700 p-8 items-center">
+                    <div className="bg-[#F28322] p-8 items-center">
                         <h3 className=" text-center md:w-8/12 lg:w-10/12 xl:8/12 2xl:w-8/12 w-full xl:text-4xl sm:text-3xl text-2xl font-semibold text-black capitalize">
                             REWARDS
                         </h3>
@@ -85,7 +85,7 @@ export default function Home() {
                             all of their invested Tokens.
                         </p>
                     </div>
-                    <div className="bg-gray-700 p-8 items-center">
+                    <div className="bg-[#F28322] p-8 items-center">
                         <h3 className=" text-center md:w-8/12 lg:w-10/12 xl:8/12 2xl:w-8/12 w-full xl:text-4xl sm:text-3xl text-2xl font-semibold text-black capitalize">
                             EXAMPLE
                         </h3>
@@ -98,7 +98,7 @@ export default function Home() {
                             win-win situation for all players.
                         </p>
                     </div>
-                    <div className="bg-gray-700 p-8 items-center">
+                    <div className="bg-[#F28322] p-8 items-center">
                         <h3 className=" text-center md:w-8/12 lg:w-10/12 xl:8/12 2xl:w-8/12 w-full xl:text-4xl sm:text-3xl text-2xl font-semibold text-black capitalize">
                             BENEFITS FOR HOLDERS
                         </h3>
@@ -111,7 +111,7 @@ export default function Home() {
                             system.
                         </p>
                     </div>
-                    <div className="bg-gray-700 p-8 items-center">
+                    <div className="bg-[#F28322] p-8 items-center">
                         <h3 className=" text-center md:w-8/12 lg:w-10/12 xl:8/12 2xl:w-8/12 w-full xl:text-4xl sm:text-3xl text-2xl font-semibold text-black capitalize">
                             THE GAMEPLAY FLOW ARE AS FOLLOWS
                         </h3>
@@ -130,7 +130,7 @@ export default function Home() {
                             completes the track or runs out of time.
                         </p>
                     </div>
-                    <div className="bg-gray-700 p-8 items-center">
+                    <div className="bg-[#F28322] p-8 items-center">
                         <h3 className=" text-center md:w-8/12 lg:w-10/12 xl:8/12 2xl:w-8/12 w-full xl:text-4xl sm:text-3xl text-2xl font-semibold text-black capitalize">
                             CONCLUSION
                         </h3>
